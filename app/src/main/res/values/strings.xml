@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">tdd1</string>
+    <string name="concatener">CONCATENER</string>
+    <string name="entrer_le_deuxieme_mot">Entrer le deuxieme mot</string>
+    <string name="vider">Vider</string>
+</resources>
